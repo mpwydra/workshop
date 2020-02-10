@@ -5,7 +5,7 @@ How is their method an improvement when compared to a conventional census? Are y
 authors use a number of different geospatial layers with their data science method in order to produce a high 
 resolution, global gridded description of human population?
 
-The authors use GISraster, firstly, which is a matrix of cells. This is different from a vector because it creates
+The authors use GIS raster, firstly, which is a matrix of cells. This is different from a vector because it creates
 a grid of information. This is called "spatial resolution" (Lloyd, et al.). However, the authors also
 used a vector, which is basically a one-dimensional representation of data. The main difference between matrices
 and vectors is that a matrix is a vector of vectors, meaning that matries and multi-dimensional and vectors
@@ -15,3 +15,11 @@ The article talks about their methods for using GIS Raster and vectors. The auth
 creation involves processing raster topography data with vector country boundary data using a Geographical 
 Information System (GIS) and other geospatial software" (Lloyd et al.), which means that both vectors and 
 matrices are important for creating base datasets.
+
+Scale
+Disaggregation
+Administrative Area
+  Grid cells/raster
+    uniform distribution
+    proportionate allocation
+
