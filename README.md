@@ -5,7 +5,7 @@ Matt Wydra
 ## Responses to Readings
 
 1. [Blumenstock_response](https://github.com/mpwydra/workshop/blob/master/blumenstock.md) (Jan. 27)
-2. [Lloyd et al.](https://github.com/mpwydra/workshop/blob/master/Lloyd_et_al.md) (Feb. 10)
+2. [Lloyd_et_al.](https://github.com/mpwydra/workshop/blob/master/Lloyd_et_al.md) (Feb. 10)
 
 ## Workshop
 
