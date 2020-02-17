@@ -1,4 +1,6 @@
-Top down vs. Bottom up
+# Top-down vs. Bottom-up
+
+Matt Wydra
 
 The main difference between these two methods of disaggregating data is how they approach general and specific 
 data. For bottom-up, the data is analyzed very specifically and becomes more and more general. However,
