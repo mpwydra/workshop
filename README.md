@@ -6,6 +6,7 @@ Matt Wydra
 
 1. [Blumenstock_response](https://github.com/mpwydra/workshop/blob/master/blumenstock.md) (Jan. 27)
 2. [Lloyd_et_al.](https://github.com/mpwydra/workshop/blob/master/Lloyd_et_al.md) (Feb. 10)
+3. [Wardrop et al.](https://github.com/mpwydra/workshop/blob/master/Wardrop_et_al.md)(Feb. 17)
 
 ## Workshop
 
