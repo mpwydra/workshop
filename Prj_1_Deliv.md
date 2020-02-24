@@ -1,6 +1,6 @@
 # Project 1 Deliverable: Côte d'Ivoire
-## Matt Wydra
-## DATA 100
+
+## Matt Wydra 
 
 In this project, I encountered numerous obstacles. I struggled to use several libraries because the
 R Scirpt language occasionally tells me things that are incorrect so I spend hours on a woorkaround that is unnecessary
