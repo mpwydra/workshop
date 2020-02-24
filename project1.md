@@ -7,9 +7,9 @@ Matt Wydra
 A brief description
 
 ### population density
-![](Geom_Bar_Plot_Final.png)
 ![](Côte_D'Ivoire.png)
 ![](CIV_pop19.png)
+![](Geom_Bar_Plot_Final.png)
 ![](Prj_1_Final.png)
 ![](Stretch_Plot.png)
 
