@@ -9,7 +9,7 @@ ended up breaking my program (hard to explain succinctly). After another few hou
 resolved itself somehow and I still have no idea why. My next obstacle was formatting things exactly how I wanted it. 
 As I tried to make minor adjustments, I accidentally deleted the information I had saved and had to re-run the raster
 cluster block of code, which was then followed up about 30 minutes later by another call to that block of code for
-the second administrative subdivision for the first [individual stretch goal](https://github.com/mpwydra/workshop/blob/master/Stretch_Plot.png). All in all, I enjoyed this program and 
+the second administrative subdivision for the [first individual stretch goal](https://github.com/mpwydra/workshop/blob/master/Stretch_Plot.png). All in all, I enjoyed this program and 
 managed to work through all the challenges I encountered.
 
 As far as the data itself, I found that my LMIC had as many level one administrative subdivisions (adm1) as many other people's
