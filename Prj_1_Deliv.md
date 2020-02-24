@@ -3,10 +3,12 @@
 ## Matt Wydra 
 
 ![](Côte_D'Ivoire.png)
+
 This map is the first map for the first group check-in that I made. It has the same colors as the flag of Côte d'Ivoire.
 
 
 ![](Côte_d'Ivoire_Pop.png)
+
 This is the raster for Côte d'Ivoire. It took about an hour to run the block of code that put all the information in the
 gridcells. Some challenges included how much time it took to compile but that was mainly it.
 
