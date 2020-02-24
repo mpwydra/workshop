@@ -2,6 +2,29 @@
 
 ## Matt Wydra 
 
+![](Côte_D'Ivoire.png)
+This map is the first map for the first group check-in that I made. It has the same colors as the flag of Côte d'Ivoire.
+![](Côte_d'Ivoire_Pop.png)
+This is the raster for Côte d'Ivoire. It took about an hour to run the block of code that put all the information in the
+gridcells. Some challenges included how much time it took to compile but that was mainly it.
+![](Plot_Bonita.png)
+For Valentine's Day, I decided to show the population density as getting more and more pink as areas got more and more
+dense (in regards to pupolation density).
+![](CIV_pop19.png)
+This was what my final map was going to be for Côte d'Ivoire but I noticed I had a bug in my program (the population 
+percentage was too far 'nudged' in the y-direction). This was fixed by then end but took me a while to debug. I thought
+there was an error in my code and not my logic but I fixed it eventually.
+![](Geom_Bar_Plot_Final.png)
+This is the bar plot that shows which regions have the greatest amount of people. It takes the percentage of the total 
+population that is in each region and makes a greatest to least bar plot to show the greatest percentage on the top
+and the lowest on the bottom.
+![](Prj_1_Final.png)
+This is the final product for my project. On the left is my map of Côte d'Ivoire and on the right is my bar plot (described
+two and one plots ago, respectively).
+![](Stretch_Plot.png)
+I decided to go for the final stretch goal to test my abilities. I was able to complete this with relative ease but did 
+hit a few snags. By this point, I started to understand the language well enough to enjoy debugging.
+
 In this project, I encountered numerous obstacles. I struggled to use several libraries because the
 R Scirpt language occasionally tells me things that are incorrect so I spend hours on a woorkaround that is unnecessary
 and, ultimately, takes me further away from the solution. I ended up trying to install several packages and
