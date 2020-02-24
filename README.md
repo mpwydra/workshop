@@ -15,7 +15,7 @@ Matt Wydra
 
 ### Project 1
 
-#### [Project 1 deliverable](https://github.com/mpwydra/workshop/blob/master/Prj_1_Deliv.md)
+#### [Project 1 deliverable](https://github.com/mpwydra/workshop/blob/master/project1.md)
 
 1. [First Map](https://github.com/mpwydra/workshop/blob/master/Co%CC%82te_D'Ivoire.png)
 2. [Final Map](https://github.com/mpwydra/workshop/blob/master/CIV_pop19.png)
