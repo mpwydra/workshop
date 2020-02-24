@@ -8,8 +8,8 @@ A brief description
 
 ### population density
 ![](Geom_Bar_Plot_Final.png)
-![](Côte_d'Ivoire.png)
-![](CIVpop19.png)
+![](Côte_D'Ivoire.png)
+![](CIV_pop19.png)
 ![](Prj_1_Final.png)
 ![](Stretch_Plot.png)
 
