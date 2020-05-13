@@ -14,15 +14,23 @@ A description of health care facilities and your estimate of service accessibili
 ![](look4orange.png)
 
 ### Total Population of Bafing, Côte d'Ivoire: 
-`As of 2019, it is between 175,000 - 200,000 people which was significantly easier to manage than Abidjan.`
+`
+As of 2019, it is between 175,000 - 200,000 people which was significantly easier to manage than Abidjan.
+`
 
 ### Settlements: 
-``As of 2019, it is between 175,000 - 200,000 people which was significantly easier to manage than Abidjan.``
+``
+As of 2019, it is between 175,000 - 200,000 people which was significantly easier to manage than Abidjan.
+``
 
 ### Density information: 
-```As of 2019, it is between 175,000 - 200,000 people which was significantly easier to manage than Abidjan.```
+```
+As of 2019, it is between 175,000 - 200,000 people which was significantly easier to manage than Abidjan.
+```
 
 ### Roadways and HCFs: 
-````While Bafing had a multitude of roadways throughout the area, there was only one HCF even remotely close to it (which was a hospital) but that technically wasn't even in the border of Bafing.````
+````
+While Bafing had a multitude of roadways throughout the area, there was only one HCF even remotely close to it (which was a hospital) but that technically wasn't even in the border of Bafing.
+````
 
 
