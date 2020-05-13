@@ -7,8 +7,13 @@ A description of health care facilities and your estimate of service accessibili
 
 
 
-# Project 3 Deliverable: Road Networks and HCFs of Côte d'Ivoire
+# Project 3 Deliverable: Road Networks and HCFs of Bafing, Côte d'Ivoire
 
 ## Matt Wydra 
 
 ![](look4orange.png)
+
+#### Total Population of Bafing, Côte d'Ivoire: 
+`As of 2019, it is between 175,000 - 200,000 people which was significantly easier to manage than Abidjan.`
+
+
