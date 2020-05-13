@@ -1,12 +1,3 @@
-Upload the spatial plot that describes the de facto location of human settlements and urban areas, the center lines of classified roadways and the location of health care facilities by type throughout your selected and combined adm2, adm3 or adm4 areas.
-Accompany your plot with a written statement that provides answers to the following information. 
-Total population of selected and combined adm2, adm3 or adm4 areas and the total number of distinctly defined human settlements or urban areas
-A description of the distribution of sizes and densities of all human settlements and urban areas throughout your selected and combined adm2, adm3 or adm4 areas
-A description of the roadways and your estimate of the transportation networks level of service in comparison to the spatial distriubtion of human settlements and urban areas
-A description of health care facilities and your estimate of service accessibility in comparison to the spatial distriubtion of human settlements and urban areas
-
-
-
 # Project 3 Deliverable: Road Networks and HCFs of Bafing, Côte d'Ivoire
 
 ## Matt Wydra 
@@ -17,12 +8,10 @@ A description of health care facilities and your estimate of service accessibili
 `As of 2019, it is between 175,000 - 200,000 people which was significantly easier to manage than Abidjan.`
 
 ### Settlements: 
-``As of 2019, it is between 175,000 - 200,000 people which was significantly easier to manage than Abidjan.``
+``With only around 6 urban settlements, Bafing was very dense where there were settlements. Also, there were hundreds across Côte d'Ivoire so the conclusion can also be drawn that it is very underdeveloped. This conclusion is backed because there are only a few roadways throughout the region and only one links to a HCF (which happens to be the only HCF near Bafing). ``
 
 ### Density information: 
-```As of 2019, it is between 175,000 - 200,000 people which was significantly easier to manage than Abidjan.```
+```The areas are all of varying population densities (as shown in the plot). The population is concentrated around the urban settlements (which is to be expected).```
 
 ### Roadways and HCFs: 
-````While Bafing had a multitude of roadways throughout the area, there was only one HCF even remotely close to it (which was a hospital) but that technically wasn't even in the border of Bafing.````
-
-
+````While Bafing had a multitude of roadways throughout the area, there was only one HCF even remotely close to it (which was a hospital) but that technically wasn't even in the border of Bafing. In summation, residents of Bafing have very limited access to Healthcare Facilities.````
