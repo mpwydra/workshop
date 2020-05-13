@@ -25,7 +25,7 @@ Matt Wydra
 
 ### Project 2
 
-#### [Project 2 deliverable]()
+#### [Project 2 deliverable](https://github.com/mpwydra/workshop/blob/master/Prj2_Deliv.md)
 
 1. [First Plot](https://github.com/mpwydra/workshop/blob/master/P2Plot1.png)
 2. [Second Plot](https://github.com/mpwydra/workshop/blob/master/P2Plot2.png)
@@ -33,6 +33,12 @@ Matt Wydra
 4. [Plot 4.1](https://github.com/mpwydra/workshop/blob/master/P2Plot4.png)
 5. [Plot 4.2](https://github.com/mpwydra/workshop/blob/master/P2Plot4_2.png)
 6. [Plot 4.3](https://github.com/mpwydra/workshop/blob/master/P2Plot4_3.png)
+
+### Project 3
+
+#### [Project 3 Deliverable](https://github.com/mpwydra/workshop/blob/master/Prj3_Deliv.md)
+
+1. [Final Product](https://github.com/mpwydra/workshop/blob/master/look4orange.png)
 
 
 
